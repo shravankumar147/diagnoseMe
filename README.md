@@ -15,7 +15,8 @@ Once dependencies are installed, just run this to see it in your terminal.
 
 ```
 cd myexperiments
-python test2.py -s "male" -a 25```
+python test2.py -s "male" -a 25
+```
 
 That's it! If you performed everything correctly you will see the following.
 
@@ -35,6 +36,5 @@ Diagnosis Results:
 ********
 It is possibly the following condition according to the mentioned symptoms
 Cystitis with probability being 0.0772
-********
-
- ```
+******** 
+```
